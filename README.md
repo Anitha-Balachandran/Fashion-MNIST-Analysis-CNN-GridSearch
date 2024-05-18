@@ -1,6 +1,3 @@
-# Fashion-MNIST-Analysis-CNN-GridSearch
-
-
 # Mini-Project Summary: Fashion Mnist Dataset Analysis
 
 ## Objective:
